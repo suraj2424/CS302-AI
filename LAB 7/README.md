@@ -1,3 +1,1 @@
-# CS302-AI
-# CS302-AI
-# CS302-AI
+Decision Trees - Entropy and Gini Index
